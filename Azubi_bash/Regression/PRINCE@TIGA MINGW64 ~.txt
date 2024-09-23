@@ -1,0 +1,68 @@
+PRINCE@TIGA MINGW64 ~
+$ cd Azubi_2
+
+PRINCE@TIGA MINGW64 ~/Azubi_2 (master)
+$ cd Azubi_bash
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash (master)
+$ mkdir classification
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash (master)
+$ cd classification
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ touch tim.ipynb
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ touch.README.md
+bash: touch.README.md: command not found
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ touch README.md
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ touch LICENSE
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ echo "MIT License\n\nPermission is hereby granted free of charge to any person obtaining a copy . . . \n">LICENSE
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ git add tim.ipynb README.md LICENSE
+warning: in the working copy of 'Azubi_bash/classification/LICENSE', LF will be replaced by CRLF the next time Git touches it
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ git commit -m "tim.ipynb, README.md, LICENSE
+> git commit -m "tim.ipynb, README.md, LICENSE"
+>
+>
+>
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+>
+LICENSE    README.md  tim.ipynb
+> ^C
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification
+$ ^C
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$ git commit -m "tim.ipynb, README.md, LICENSE"                                                       [master (root-commit) 0df3b74] tim.ipynb, README.md, LICENSE
+ 3 files changed, 1 insertion(+)
+ create mode 100644 Azubi_bash/classification/LICENSE
+ create mode 100644 Azubi_bash/classification/README.md
+ create mode 100644 Azubi_bash/classification/tim.ipynb
+
+PRINCE@TIGA MINGW64 ~/Azubi_2/Azubi_bash/classification (master)
+$
